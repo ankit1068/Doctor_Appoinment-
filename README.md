@@ -35,6 +35,5 @@ Java Development Kit (JDK) 8 or higher
 
 Apache Tomcat Server (v9.0 or higher recommended)
 
-Oracle Database
-
-A code editor or IDE (e.g., Eclipse, IntelliJ IDEA, or VS Code)
+A code editor or IDE (e.g., NetBeans, Eclipse, IntelliJ IDEA, or VS Code)
+I recommend to better exp you can use the NetBeans!!
