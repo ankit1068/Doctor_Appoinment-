@@ -1,5 +1,5 @@
 # Doctor_Appoinment_Service
-Doctor Appointment Service is a web application built using Advanced Java technologies, including Servlets, JSP (Java Server Pages), and HTML. This project aims to simplify the process of booking and managing doctor appointments for both patients and administrators.
+Doctor Appointment Service is a web application built using Advanced Java technologies, including Java Servlets, JSP (Java Server Pages), and HTML. This project aims to simplify the process of booking and managing doctor appointments for both patients and administrators.
 
 Features
 
